@@ -17,6 +17,5 @@ Explore demographic and school-level characteristics
 Identify potential relationships or disparities
 ## Tools & Technologies
 Python (Pandas, NumPy)
-Data Visualization (Matplotlib / Seaborn)
 Jupyter Notebook
 CSV Data Analysis
