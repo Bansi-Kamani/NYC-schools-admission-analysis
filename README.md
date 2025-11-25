@@ -36,11 +36,11 @@ Examine participation rate
 Explore demographic and school-level characteristics
 Identify potential relationships or disparities
 ## Key Findings
-Replace these placeholders with insights from your notebook:
 Average SAT Math scores were lower compared to Reading and Writing.
 Schools with high participation rates showed more stable overall scores.
 Several specialized high schools (e.g., Stuyvesant, Bronx Science) were among the highest performers.
 Significant score variation exists across boroughs.
+Manhattan borough has the highest standard deviation in total SAT scores.
 ## Tools & Technologies
 Python (Pandas, NumPy)
 Jupyter Notebook
